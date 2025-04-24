@@ -1,5 +1,5 @@
-                    Project name:Course Managment API
-Task Objective:
+                    Project name:Course Management API
+Objective:
 Develop a backend RESTful API using Node.js, Express.js, and MongoDB to support a Course
 Management Dashboard. The API will handle course data operations such as create, read,
 update, and delete (CRUD).
@@ -28,6 +28,3 @@ DELETE /api/courses/:id Delete course by ID
 • Handle edge cases (e.g., course not found)
 • Validate input data (title, description, price must be required)
 • Store and return timestamps for each course
-
-Upload the task
-• You should upload the task on Vercel and GitHub and send to us the both links.
